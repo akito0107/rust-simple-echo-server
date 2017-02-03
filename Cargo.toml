@@ -1,0 +1,6 @@
+[package]
+name = "echo-simple"
+version = "0.1.0"
+authors = ["Akito Ito <akito_ito@r.recruit.co.jp>"]
+
+[dependencies]
